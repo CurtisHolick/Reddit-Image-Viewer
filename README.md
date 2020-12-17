@@ -5,6 +5,7 @@ It allows you to enter a single or multiple subreddits, and it will pull the ima
 
 It also allows you to change settings which are saved in a file, as well as create and save groups of subreddits.
 
+Created January 2018
 
 Required Packages:
 -
